@@ -1,0 +1,4 @@
+name : Ali     id : 1     age : 20     phone number : 787483     average grade : 18.750000     courses : 1  ,  2
+name : Amir     id : 2     age : 25     phone number : 843783     courses : 3
+name : Maryam     id : 3     age : 21     phone number : 8734433     average grade : 18.000000     courses : 3  ,  1
+name : Mehdi     id : 4     age : 30     phone number : 8754595     average grade : 13.700000     courses : 2  ,  3

@@ -1,0 +1,4 @@
+student id : 1     course id : 1     grade : 17.500000
+student id : 1     course id : 2     grade : 20.000000
+student id : 3     course id : 3     grade : 18.000000
+student id : 4     course id : 3     grade : 13.700000

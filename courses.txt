@@ -1,0 +1,3 @@
+title : python     id : 1     capacity : 25     student count : 2     is mandatory : 1     description : elementary pyhton course     students : 1  ,  3
+title : c++     id : 2     capacity : 30     student count : 2     is mandatory : 1     students : 1  ,  4
+title : Java     id : 3     capacity : 18     student count : 3     is mandatory : 0     students : 3  ,  2  ,  4
